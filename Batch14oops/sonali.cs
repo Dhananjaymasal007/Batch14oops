@@ -8,7 +8,7 @@ namespace Batch14oops
 {
     internal class sonali
     {
-        public void display()
+        public void Display()
         {
            
         }
