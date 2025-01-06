@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Batch14oops
+
 {
 
      class Test5
@@ -17,6 +18,15 @@ namespace Batch14oops
     }
 
                 
+
+ 
+ public class Test56    {
+        public void Display2()
+        { 
+        }
+
+    }
+
     internal class sonali
     {
     }
