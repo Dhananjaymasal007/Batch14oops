@@ -29,5 +29,9 @@ namespace Batch14oops
 
     internal class sonali
     {
+        public void Display()
+        {
+           
+        }
     }
 }
