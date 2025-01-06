@@ -10,7 +10,7 @@ namespace Batch14oops
     {
         public void display()
         {
-            Console.WriteLine("Hello")
+           
         }
     }
 }
