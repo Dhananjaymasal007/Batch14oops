@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Batch14oops
 {
-    internal class @try
+   public class @try
     {
     }
 }
