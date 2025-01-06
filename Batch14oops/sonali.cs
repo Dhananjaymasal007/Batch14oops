@@ -8,5 +8,9 @@ namespace Batch14oops
 {
     internal class sonali
     {
+        public void display()
+        {
+            Console.WriteLine("Hello")
+        }
     }
 }
