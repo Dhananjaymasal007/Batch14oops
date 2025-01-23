@@ -49,6 +49,8 @@ namespace Batch14oops
     {
         static void Main()
         {
+
+            //Animal1  animal = new Animal1();
             //crating objects for derived classess
             Dog1 dog = new Dog1();
             Cat1 cat = new Cat1();
